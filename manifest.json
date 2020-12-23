@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
   "name": "Streamlabs Start Credits",
-  "version": "0.1.0",
+  "version": "1.0",
 
   "description": "Starts streamlabs end credits when there is an activate=true URL parameter",
 
   "content_scripts": [
     {
-      "matches": ["*://streamlabs.com/dashboard#/credits"],
+      "matches": ["https://streamlabs.com/dashboard"],
       "js": ["start.js"]
     }
   ]
