@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Streamlabs Start Credits",
+  "name": "Roll Credits Live for Streamlabs",
   "version": "1.0",
 
-  "description": "Starts streamlabs end credits when there is an activate=true URL parameter",
+  "description": "Starts streamlabs end credits when there is an activate=true URL parameter.",
 
   "content_scripts": [
     {
