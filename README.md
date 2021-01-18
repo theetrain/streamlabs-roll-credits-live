@@ -11,7 +11,7 @@ This extension helps automatically locate and click the 'Roll Credits Live' butt
 
 ## FAQ and Troubleshooting
 
-Q: My credits won't roll!
+Q: My credits won't roll!  
 A: Ensure you have "Enable Custom HTML/CSS" disabled.
 
 ## How to develop
